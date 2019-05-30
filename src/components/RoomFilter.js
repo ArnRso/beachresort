@@ -62,7 +62,6 @@ export default function RoomFilter({ rooms }) {
             </select>
           </div>
           {/* end select type */}
-
           {/* {guests} */}
           <div className="form-group">
             <label htmlFor="capacity">guests</label>
@@ -77,6 +76,7 @@ export default function RoomFilter({ rooms }) {
             </select>
           </div>
           {/* guests */}
+          {/* room price */}7{/* end room price */}
         </form>
       </section>
     </>
