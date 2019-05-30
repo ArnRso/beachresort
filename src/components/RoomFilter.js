@@ -76,7 +76,7 @@ export default function RoomFilter({ rooms }) {
             </select>
           </div>
           {/* guests */}
-          {/* room price */}7{/* end room price */}
+          {/* room price */}7{/* end room price  */}
         </form>
       </section>
     </>
